@@ -1,0 +1,7 @@
+/private/var/mobile/Library/AddressBook/
+/private/var/mobile/Library/SMS/
+/private/var/mobile/Library/Calendar/
+/private/var/mobile/Library/Notes/
+/var/mobile/Media/DCIM/
+/var/mobile/Library/Voicemail/
+/var/mobile/Library/CallHistory/
